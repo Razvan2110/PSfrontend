@@ -1,0 +1,17 @@
+.table {
+    background-color: #343a40; /* Fundal întunecat */
+    color: white; /* Text alb */
+}
+
+.table th {
+    background-color: #495057; /* Fundal pentru antet */
+    color: white; /* Text alb */
+}
+
+.table td {
+    color: white; /* Text alb */
+}
+
+.text-center {
+    color: white; /* Text alb pentru titlu */
+}
